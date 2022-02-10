@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "499268074370",
+    "firebase_url": "https://nana-12be9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nana-12be9",
+    "storage_bucket": "nana-12be9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499268074370:android:2f064e289fe172bb796d9b",
+        "android_client_info": {
+          "package_name": "com.example.project1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499268074370-vf885jiivvtsg47v6nkqehhujq7iojhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMpYEiMLRHfyrbFuf4eyalY2g9W-pUuSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499268074370-vf885jiivvtsg47v6nkqehhujq7iojhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
